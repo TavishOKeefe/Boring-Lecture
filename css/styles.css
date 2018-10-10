@@ -1,11 +1,11 @@
-h2.intro {
+.important {
   color: blue;
 }
 
-p.intro{
+.unimportant {
   color: red;
 }
 
-img.intro {
-  border-radius: 50px;
+.highlight {
+  color: orange;  
 }
